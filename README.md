@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me chame de Judy!<br>Sou uma desenvolvedora FullStack apaixonada por TI<br>🌱 Estou continuamente estudando Java, Javascript, Typescript<br>e estudando seus frameworks, como também HTML e CSS
+Me chame de Judy!<br>💻Sou uma desenvolvedora FullStack apaixonada por TI<br>🌱 Estou continuamente estudando Java, Javascript, Typescript<br>e estudando seus frameworks, como também HTML e CSS
 
 
 # 💻 Tech Stack:
